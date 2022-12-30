@@ -1,7 +1,7 @@
 from django.shortcuts import render
 
 from django.http import HttpResponse
-from families.models import Families
+from .models import Families
 # Create your views here.
 
 
